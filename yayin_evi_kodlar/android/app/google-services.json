@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448689372762",
+    "project_id": "yayinevi-1a28a",
+    "storage_bucket": "yayinevi-1a28a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448689372762:android:7480cba0382ddef21d6263",
+        "android_client_info": {
+          "package_name": "com.example.yayin_evi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448689372762-52f8fkqj8caj11klu8u66e041beslv41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmyFRwUN-s5-c_Pw9jstqQ7uqtOY2hygE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448689372762-52f8fkqj8caj11klu8u66e041beslv41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
